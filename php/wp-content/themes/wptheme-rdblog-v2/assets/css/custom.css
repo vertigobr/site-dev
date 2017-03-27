@@ -1,0 +1,71 @@
+/* Base */
+body {
+  background-color: #f8f8fa;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: #4B4B4B;
+  line-height: 1.7em;
+}
+h1, h2, h3, h4 { color: #4B4B4B; }
+a { color: #666; }
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.35em; }
+
+/* Header */
+#primary-nav { margin-top: 15px; }
+#top-header { border-bottom: 2px solid #fff; background-color: #fff; }
+#top-header #primary-nav ul li.current_page_item a { background-color: #89c236; color: #FFF; }
+#top-header #primary-nav ul li a { color: #000; }
+#top-header #primary-nav ul li a:hover { background-color: #EAEAEA; color: #89c236; }
+#about-subscribe { background-color: #000; }
+#about-subscribe h2 { color: #fff; }
+#headline { background: #000; }
+#headline h3 { color: #FFF; font-size: 1.5em; }
+
+/* Post */
+.blog-post .post-meta { color: #AAA; }
+.blog-post h3 a { color: #517E93; }
+.post-date {
+  background: #eaeaea;
+  background: -moz-linear-gradient(-45deg,  #eaeaea 0%, #eaeaea 50%, #dddddd 51%, #dddddd 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#eaeaea), color-stop(50%,#eaeaea), color-stop(51%,#dddddd), color-stop(100%,#dddddd)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(-45deg,  #eaeaea 0%,#eaeaea 50%,#dddddd 51%,#dddddd 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(-45deg,  #eaeaea 0%,#eaeaea 50%,#dddddd 51%,#dddddd 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(-45deg,  #eaeaea 0%,#eaeaea 50%,#dddddd 51%,#dddddd 100%); /* IE10+ */
+  background: linear-gradient(135deg,  #eaeaea 0%,#eaeaea 50%,#dddddd 51%,#dddddd 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaeaea', endColorstr='#dddddd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  color: #6B6B6B;
+}
+.read-more {
+  background-color: #EAEAEA;
+  color: #89c236;
+}
+.read-more:hover {
+  background-color: #89c236;
+  color: #FFF;
+}
+
+/* Footer */
+footer #top-footer { background-color: #444; color: #999; }
+footer #top-footer #social-icons li a, #top-footer h3, #top-footer a { color: #999; }
+footer #top-footer #social-icons li a:hover { color: #89c236; }
+footer #bottom-footer { background-color: #27282C; color: #FFF; }
+
+/* Buttons */
+#scroll-top a:hover,
+input[type="submit"],
+#comments .comment-reply-link {
+  background-color: #89c236;
+  color: #FFF;
+}
+input[type="submit"]:hover,
+#comments .comment-reply-link:hover {
+  background-color: #7fb62e;
+}
+
+/* Scroll to top */
+#scroll-top a { background: #89c236; }
+#scroll-top a:hover { background-color: #7fb62e; }
+#scroll-top a i { color: #FFF; }
+#scroll-top a:hover i { color: #FFF; }

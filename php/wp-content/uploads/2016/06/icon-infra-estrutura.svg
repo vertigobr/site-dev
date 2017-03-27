@@ -1,0 +1,40 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_39">
+   <g stroke="null" transform="matrix(0.24182803996448762,0,0,0.24182803996448762,-2161.1869923725712,-2160.8377549670467) " id="svg_14">
+    <path stroke="null" id="svg_15" fill="#3e3e3f" d="m9392.593584,9054.256371c0,16.022 -12.988,29.01 -29.01,29.01l-319.979,0c-16.022,0 -29.01,-12.988 -29.01,-29.01l0,-53.979c0,-16.022 12.988,-29.01 29.01,-29.01l319.979,0c16.022,0 29.01,12.988 29.01,29.01l0,53.979l0,0z"/>
+    <circle stroke="null" id="svg_16" r="29" fill="#EAEAEA" cy="9027.266371" cx="9081.593584"/>
+    <circle stroke="null" id="svg_17" r="12" fill="#EAEAEA" cy="9027.266371" cx="9253.593584"/>
+    <circle stroke="null" id="svg_18" r="12" fill="#EAEAEA" cy="9027.266371" cx="9286.593584"/>
+    <circle stroke="null" id="svg_19" r="12" fill="#EAEAEA" cy="9027.266371" cx="9319.593584"/>
+    <circle stroke="null" id="svg_20" r="12" fill="#EAEAEA" cy="9027.266371" cx="9352.593584"/>
+    <path stroke="null" id="svg_21" fill="#3e3e3f" d="m9392.593584,9191.872371c0,16.022 -12.988,29.01 -29.01,29.01l-319.979,0c-16.022,0 -29.01,-12.988 -29.01,-29.01l0,-53.979c0,-16.022 12.988,-29.01 29.01,-29.01l319.979,0c16.022,0 29.01,12.988 29.01,29.01l0,53.979l0,0z"/>
+    <circle stroke="null" id="svg_22" r="29" fill="#EAEAEA" cy="9164.882371" cx="9081.593584"/>
+    <circle stroke="null" id="svg_23" r="12" fill="#EAEAEA" cy="9164.882371" cx="9253.593584"/>
+    <circle stroke="null" id="svg_24" r="12" fill="#EAEAEA" cy="9164.882371" cx="9286.593584"/>
+    <circle stroke="null" id="svg_25" r="12" fill="#EAEAEA" cy="9164.882371" cx="9319.593584"/>
+    <circle stroke="null" id="svg_26" r="12" fill="#EAEAEA" cy="9164.882371" cx="9352.593584"/>
+    <path stroke="null" id="svg_27" fill="#3e3e3f" d="m9392.593584,9329.488371c0,16.022 -12.988,29.01 -29.01,29.01l-319.979,0c-16.022,0 -29.01,-12.988 -29.01,-29.01l0,-53.98c0,-16.022 12.988,-29.01 29.01,-29.01l319.979,0c16.022,0 29.01,12.988 29.01,29.01l0,53.98l0,0z"/>
+    <circle stroke="null" id="svg_28" r="29" fill="#EAEAEA" cy="9302.498371" cx="9081.593584"/>
+    <circle stroke="null" id="svg_29" r="12" fill="#EAEAEA" cy="9302.498371" cx="9253.593584"/>
+    <circle stroke="null" id="svg_30" r="12" fill="#EAEAEA" cy="9302.498371" cx="9286.593584"/>
+    <circle stroke="null" id="svg_31" r="12" fill="#EAEAEA" cy="9302.498371" cx="9319.593584"/>
+    <circle stroke="null" id="svg_32" r="12" fill="#EAEAEA" cy="9302.498371" cx="9352.593584"/>
+    <g stroke="null" id="svg_33">
+     <line id="svg_34" y2="9430.191371" y1="9382.191371" x2="9202.593584" x1="9202.593584" fill="#3076BC"/>
+     <path id="svg_35" fill="#3076BC" d="m9217.593584,9430.191371l-30,0l0,-34.5c0,-7.456 6.044,-13.5 13.5,-13.5l3,0c7.456,0 13.5,6.044 13.5,13.5l0,34.5z"/>
+    </g>
+    <g stroke="null" id="svg_36">
+     <line id="svg_37" y2="9429.191371" y1="9429.191371" x2="9418.593584" x1="8988.593584" fill="#3076BC"/>
+     <path id="svg_38" fill="#3076BC" d="m9418.593584,9430.691371c0,7.456 -6.044,13.5 -13.5,13.5l-403,0c-7.456,0 -13.5,-6.044 -13.5,-13.5l0,-3c0,-7.456 6.044,-13.5 13.5,-13.5l403,0c7.456,0 13.5,6.044 13.5,13.5l0,3z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

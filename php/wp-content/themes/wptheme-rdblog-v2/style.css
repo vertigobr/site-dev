@@ -1,0 +1,34 @@
+/*
+Theme Name: Resultados Digitais
+Author: Resultados Digitais
+Author URI: http://resultadosdigitais.com.br
+Version: 2.0
+*/
+
+@import url("assets/css/reset.css");
+@import url("assets/css/grid.css");
+@import url("assets/css/base.css");
+@import url("assets/css/core-wp.css");
+@import url("assets/css/custom.css");
+@import url("assets/css/responsive.css");
+.blog-post h1 {
+    margin-bottom: 15px;
+    line-height: 1.5em;
+    font-size: 2em;
+    text-transform: none;
+    font-weight: bold;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+<script src="//my.hellobar.com/eb2433058dad005a7c1af1340b3c5179b0cf21b0.js" type="text/javascript" charset="utf-8" async="async"></script>
