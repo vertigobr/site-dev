@@ -1,0 +1,27 @@
+version: '2'
+
+services:
+
+  wordpress:
+    image: wordpress:4
+    ports:
+      - 80:80
+    volumes:
+      - ./php:/var/www/html
+      - ./htmlconf/vertigo.conf:/etc/apache2/sites-available/vertigo.conf
+    depends_on:
+      - mysql
+    links:
+      - mysql:mysql
+    restart: always
+
+  mysql:
+    image: mysql:5.5
+    volumes:
+      - ./.data:/var/lib/mysql
+      - ./mysql/site_database.dump:/docker-entrypoint-initdb.d/site_database.sql
+    environment:
+      MYSQL_RANDOM_ROOT_PASSWORD: "yes"
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: F7AYUbrBGx
