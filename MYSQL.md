@@ -14,7 +14,7 @@ Para inicializar o banco com o conteúdo do backup do site:
 ```sh
 sudo mysql -e 'CREATE DATABASE wordpress'
 sudo mysql -e 'CREATE USER wordpress'
-sudo mysql wordpress < ../mysql/site_database.dump
+sudo mysql wordpress < ./mysql/site_database.dump
 sudo mysql -e 'GRANT ALL ON wordpress.* TO wordpress'
 sudo mysql -e 'SET PASSWORD FOR wordpress = PASSWORD("F7AYUbrBGx")'
 sudo sh -c 'echo "127.0.0.1 mysql" >> /etc/hosts'
