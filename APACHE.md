@@ -1,5 +1,7 @@
-Codenvy Apache
+Apache
 ======
+
+# Codenvy
 
 No Codenvy o stack de PHP já possui um Apache+PHP embarcado. Para que o document root funcione corretamente com este projeto:
 
@@ -12,3 +14,5 @@ Para desabilitar o redirect padrão do WordPress (que impede testar o site dentr
 ```sh
 remove_filter('template_redirect','redirect_canonical');
 ```
+
+  
